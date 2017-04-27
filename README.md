@@ -46,7 +46,3 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 *Your job title*  
 **Company Name** (start_date to end_date)   
 *Your job title*  
-
-
-
-test
